@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BrizzaApp",
+  "description": "Controle de ar condicionado, cadastro de clientes, equipamentos, ordens de serviço, gerador de PMOC e relatórios PDF com assinatura digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
